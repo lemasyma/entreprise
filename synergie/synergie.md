@@ -58,3 +58,18 @@ Synergie: campus entreprise (pas Synergie pour les madames)
     * Adaptability
     * Logical thinking
     * Conscientiouness
+
+* Vincent Nawrocki
+    * ancien d'Epita
+    * Societe Generale
+
+# Societe Generale
+* Plusieurs types de stages
+    * Developpeur
+* Recrute que des stages de fin d'etudes pour embaucher juste apres
+
+## Son parcours
+* A fait son stage de fin d'etude et a ete embauche
+* A derive vers le cloud
+* Travaille sur AWS
+* Travaille au COE
