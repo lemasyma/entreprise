@@ -5,6 +5,7 @@ Conferences du 20 janvier au 24 janvier 2020
 
 # Lundi 20 janvier
 ## [10h-11h] Hewlett Packard Enterprise
+[Notes de la conference](./HP/HP.html).
 ## [11h-12h] Ouverture de la semaine et consignes pour le PP
 Vous avez recu le powerpoint de la presentation par mail.
 ## [12h-13h] Communication verbale et non-verbale
