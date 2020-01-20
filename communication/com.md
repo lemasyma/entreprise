@@ -58,4 +58,16 @@ On communique egalement avec des gestes conventionnels:
 ## L'espace et le langage "d'objet"
 L'espace dans lequel la communication se deroule est codifie
     * l'espace est codifie
-    * les apparences sont (malheureusement) codifiee
+    * les apparences sont (malheureusement) codifiee (ex: banque)
+
+# Comment optimiser sa communication non verbale
+1. L'apparence : il ne faut pas se fier aux apparences mais elle peut etre source de blocage
+1. La gestuelle
+1. Le regard
+1. La gestion de l'espace
+
+# Conclusion
+
+1. Il y a ce que je dis, avec les mots et mon corps
+2. Il y a un filtre entre ce que l'on dit et ce que l'on pense vraiment
+1. La maitrise de soi est le premier pas
