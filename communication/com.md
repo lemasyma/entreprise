@@ -26,7 +26,7 @@
 Les silences font partie integrante de la communication
 
 ## Un oral est une chanson, une melodie
-Le flus de parole dans une chanson n'est presque jamais le meme: le cerveay apprecie des variation de melodie
+Le flux de parole dans une chanson n'est presque jamais le meme: le cerveau apprecie des variation de melodie
 
 ## Pour conclure
 * Timbre de voix: assumer ce qu'on dit
