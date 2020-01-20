@@ -31,7 +31,7 @@ Criteres et conditions de depart en stage de tronc commun:
 * Un stage a l'etranger peut couter alors qu'en France il rapporte
 **Mais c'est un veritable investisssement**
 
-# Procedure a suivre
+## Procedure a suivre
 * Formulaire de demande de convention
 * Validations du statut etudiant
 * Validation du sujet (Relation Entreprises)
@@ -41,7 +41,7 @@ Criteres et conditions de depart en stage de tronc commun:
 * Debut de stage
 => epita.net
 
-# Stages Interdits
+## Stages Interdits
 * Sujets lies a la formation
 * Sujets lies a la commercialisation
 * Le teletravail, peu importe le sujet
@@ -58,7 +58,7 @@ Criteres et conditions de depart en stage de tronc commun:
         * Maitre de stage pas forcement qualifie
     * Cas particulier : stage dans sa propre societe
 
-# Suivi pendant le stage
+## Suivi pendant le stage
 * 3 formulaires de suivi sur l'intranet
 * 1 entretien physique ou telephonique avec "prof referent"
 * Notation sur
@@ -69,7 +69,7 @@ Criteres et conditions de depart en stage de tronc commun:
 
 **Prevenez les problemes a l'avance**
 
-# Les principaux problemes / entreprise
+## Les principaux problemes / entreprise
 
 Par rapport aux **sujets demandes:**
 * Manque de reporting reguliers et problemes d'encadrement
@@ -96,12 +96,15 @@ Par rapport aux **sujets demandes:**
 * Indemnite de stage
 * Primes
 
-# Sujets types
+## Sujets types
 ![types](types.jpg)
 
-# Les indemnites de stage
+## Les indemnites de stage
 ![indemites](indemnites.jpg)
 
 # Activites Avril & Mai 2020
 * 28 avril: simulations d'entretiens
 * 4, 5, 6, 7 mai: Forum stages 4A => Speed dating
+
+# Objectifs Professionnels
+![objectifs](objectifs.jpg)
