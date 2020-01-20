@@ -95,3 +95,13 @@ Par rapport aux **sujets demandes:**
 **Financiers:**
 * Indemnite de stage
 * Primes
+
+# Sujets types
+![types](types.jpg)
+
+# Les indemnites de stage
+![indemites](indemnites.jpg)
+
+# Activites Avril & Mai 2020
+* 28 avril: simulations d'entretiens
+* 4, 5, 6, 7 mai: Forum stages 4A => Speed dating
