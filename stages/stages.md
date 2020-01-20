@@ -15,7 +15,7 @@ Ce stage technique doit permettre a nos etudiants:
 
 **Date de reception des sujets** : du 15 avril au 15 juillet
 
-La semaine du 31 aout au 5 septembre on risque d'etre convoaues a l'ecole si on a pas assiste aux soutenances des ing3 fin Juillet.
+La semaine du 31 aout au 5 septembre on risque d'etre convoques a l'ecole si on a pas assiste aux soutenances des ing3 fin Juillet.
 On doit assister a une soutenance de chaque majeure.
 
 ## Qui peut partir en stage ?
