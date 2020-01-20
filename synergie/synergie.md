@@ -73,3 +73,46 @@ Synergie: campus entreprise (pas Synergie pour les madames)
 * A derive vers le cloud
 * Travaille sur AWS
 * Travaille au COE
+
+* Didier Zapparata
+    * Ancien d'Epita
+    * Travaille a Accor
+
+# Accor
+## Accor en bref
+* 280 000 collaborateur
+* 111 Pays
+* 39 marques
+* 4 900 hotels
+* 3 610 M d'euros
+* >100 metiers
+
+## New platform ALL - Accor Live Limitless
+* Revamp of our digital websites and mobile app
+* Live from December 3rd 2019
+* 8 months of development
+
+### Many IT roles involved
+* Tech leads
+* Front-end developper
+* SCRUM MASTER
+
+### Many challenges from the tech team
+* Robust Tech & Architecture
+    * easier & faster to plug iOS/Android features
+* New ways of working
+    * Gain in velocity
+    * Iterate to address guests needs
+* Quality and performance
+    * Automated tests and content updates
+    * Productive maintenance
+    * Master tech quality
+* Design system: UI Library & guidelines
+    * Be scalable
+    * Deliver a consistent experience with web
+**Quality obssessed**
+
+## ALL App enables ACCOR to enter a new digital $ technological era
+* Crash free rate
+* Code line warning
+* Tech team onboarding
