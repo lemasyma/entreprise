@@ -45,3 +45,16 @@ Synergie: campus entreprise (pas Synergie pour les madames)
     * Networking
     * Annual interviews (performance assesment + career aspirations)
 ![Cycle](cycle.jpg)
+
+## Relevant Epita Skills
+* Mastery of programming
+    * Languages (C#, C++)
+    * Design Patterns
+    * Parallel programming
+* Advanced concepts
+    * Graph theory
+    * Machine Learning
+* "Mind skills"
+    * Adaptability
+    * Logical thinking
+    * Conscientiouness
