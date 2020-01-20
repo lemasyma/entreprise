@@ -1,6 +1,7 @@
 # Stages de fin de Tronc Commun
 
 **Objectif du stage**
+
 Ce stage technique doit permettre a nos etudiants:
 * de s'integrer dans une equipe informatique
 * de prendre conscience des imperatifs de conduite de projet
@@ -23,3 +24,74 @@ Les premieres autorisations sont donnees apres reception des notes du S5 et trai
 Criteres et conditions de depart en stage de tronc commun:
 
 ![criteres](criteres.jpg)
+
+## Les stages a l'etranger
+* Double interet: bonus sur le CV, objectif linguistique, culturel, etc.
+* Pas facile de trouver un stage a l'etranger
+* Un stage a l'etranger peut couter alors qu'en France il rapporte
+**Mais c'est un veritable investisssement**
+
+# Procedure a suivre
+* Formulaire de demande de convention
+* Validations du statut etudiant
+* Validation du sujet (Relation Entreprises)
+* Emission de la Convention
+* Signature electronique de la Convention
+* Workflow des conventions 
+* Debut de stage
+=> epita.net
+
+# Stages Interdits
+* Sujets lies a la formation
+* Sujets lies a la commercialisation
+* Le teletravail, peu importe le sujet
+    * rencontrer des gens
+    * interactions (parfois penibles)
+    * travailler a des horaires normaux
+    * Cas particuliers: problemes de sante (jambe cassee, ...)
+* Stages non indemnises
+* Stages dans des structures de moins de 10 personnes
+    * C'est la ou se trouvent tous les problemes de stages
+        * Travail enorme (~60h contre ~35h normalement)
+        * Probleme de suivi
+        * Probleme de structure
+        * Maitre de stage pas forcement qualifie
+    * Cas particulier : stage dans sa propre societe
+
+# Suivi pendant le stage
+* 3 formulaires de suivi sur l'intranet
+* 1 entretien physique ou telephonique avec "prof referent"
+* Notation sur
+    * Le rapport
+    * La soutenance
+    * L'anglais
+    * La prestation vue par l'entreprise
+
+**Prevenez les problemes a l'avance**
+
+# Les principaux problemes / entreprise
+
+Par rapport aux **sujets demandes:**
+* Manque de reporting reguliers et problemes d'encadrement
+* Manque de recul sur les objectifs finaux
+* Gesion des priorites
+* Prise de parole en public
+* Qualites redactionnelles
+* Manque de connaissances de l'entreprise
+* Apprendre a noter ce qu'on lui demande
+* Propriete intellectuelle
+* Manque de relecture
+
+**Comportementaux:**
+* Ponctualite
+* Absences non justifiees
+* Manque de professionnalisme
+* Trop d'assurance
+* Peu d'initiative
+* Introverti
+* Diplomatie
+* Manque de communication
+
+**Financiers:**
+* Indemnite de stage
+* Primes
