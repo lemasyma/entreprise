@@ -5,9 +5,9 @@
 
 > Be the industry's leading provider of **hybrid IT**
 
-#Les tendances de l'industrie IT
+# Les tendances de l'industrie IT
 
-##In the Idea Economy, anyone can change the world
+## In the Idea Economy, anyone can change the world
 * Digital everything, everywhere, every day, everyone connected
 * Every business is a digital business
 * Disrupting every industry
@@ -16,26 +16,26 @@ Pas de problemes de:
 * chaumage
 * ressources
 
-##We live in a world where everything computes
+## We live in a world where everything computes
 On arrive au meme niveau que le livre 1984, tout est surveille et calcule
 
-##Digial transformation is disrupting every industry
-###Transformed
+## Digial transformation is disrupting every industry
+### Transformed
 * Video
 * Books
 * Magazine
-###Transforming
+### Transforming
 * Healtchare
-###Soon to be transformed
+### Soon to be transformed
 * Education
 
 > A new generation of apps and data are the digital fuel
 
-##Industry shifts continue to reshape enterprise IT
+## Industry shifts continue to reshape enterprise IT
 ![Industry shift](entreprise.jpg)
 
-#Les metiers des technologies et du numerique
-##Des secteurs d'activites
+# Les metiers des technologies et du numerique
+## Des secteurs d'activites
 1. Constructeur
     * IBM
     * Dell
@@ -55,7 +55,7 @@ On arrive au meme niveau que le livre 1984, tout est surveille et calcule
     * SFR
     * Michelin
 
-##Des types de metiers
+## Des types de metiers
 1. Techniques
     * Developpeur
     * Expert
@@ -72,7 +72,7 @@ On arrive au meme niveau que le livre 1984, tout est surveille et calcule
     * Consultant, auditeur
     * Business developpeur
 
-##Domaines de l'informatique
+## Domaines de l'informatique
 1. Business
     * Accompagner la disruption
     * Creer de nouveaux "metiers"
@@ -88,11 +88,25 @@ On arrive au meme niveau que le livre 1984, tout est surveille et calcule
     * Donnees structurees (ou non)
     * Big data
 
-##Pour quoi faire?
+## Pour quoi faire?
 * Comprendre, Valider, Securiser
 * Definir, Concevoir, Realiser
 * Orchestrer, Animer, "leader"
 * Creer, Innover, Inventer
 
-#Et vous?
+# Et vous?
 > A truly global company will be one that uses the intellect and resources of the world
+
+## Notre Monde change vite et vous?
+1. Votre valeur ajoutee
+    * rester un ingenieur performant
+1. Votre adaptabilite
+    * aux changements
+    * aux nouvelles tech
+1. Vos qualites humaines
+    * un atout pour porter une vision et entrainer une equipe
+    * communication adpatee atteignant la cibke
+    * rester libre et avoir un esprit critique constructif
+1. Hors de votre zone de confort
+    * pour innover et creer de nouvelles references
+    * pour assumer de nouveaux engagements
