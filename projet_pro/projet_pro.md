@@ -26,5 +26,6 @@
 1. Actions pour **obtenir un stage**
 1. Les **personnes a contacter**
 
+# Rendre son projet professionnel
 ![Rendre projet](rendre_projet.jpg)
 ![Projet candidature](candidature.jpg)
