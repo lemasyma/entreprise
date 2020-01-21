@@ -15,7 +15,9 @@ Vous retrouverez la les conferences les plus recentes, classees par ordre chrono
 Listes toutes les conferences dont j'ai deja pris notes.
 
 ## Tags
-Je m'en sert pas encore, peut-etre plus tard si j'ai pas la flemme
+~je m'en sert pas encore, peut-etre plus tard si j'ai pas la flemme~
+Au final je les ai utilises, ils sont tous disponibles dans la categorie tag,
+comme ca ca sera beaucoup plus simple pour retrouver une conference.
 
 ## About
 Je... eh... Je dois vraiment expliquer?
