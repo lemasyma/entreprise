@@ -20,20 +20,3 @@ Vous avez recu le powerpoint de la presentation par mail.
 
 ### [16h-17h] Presentation des stages
 [Notes de la conference](./stages/stages.html).
-
-## Mardi 21 janvier
-
-### [10h-11h] Deepomatic
-[Notes de la conference](./deepomatic/deepomatic.html).
-
-### [11h-12h] Qarnot
-[Notes de la conference](./qarnot/qarnot.html).
-
-### [14h-15h] Accenture
-[Notes de la conference](./accenture/accenture.html).
-
-### [15h-16h] Marine
-[Notes de la conference](./marine/marine.html).
-
-### [16h-17h] Presentation du S6
-[Notes de la conference](./s6/s6.html).
