@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
 title:  Communication verbale et non verbale
 date:   2020-01-20 12:00
 tags: Shannon obligatoire images projet_perso
 description: Conference sur les differentes methodes de communication
-toc: true
 ---
 *But why encore une autre conference?*
 

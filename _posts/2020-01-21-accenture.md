@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
 title:  Accenture
 date:   2020-01-21 13:00
-tags: parcours_ancien
+tags:   parcours_ancien
 description: Conference sur Accenture de la part de deux anciens d'Epita
-toc: true
 ---
 * promo 2002 SIGL
 * Mathilde : promo 2018, majeure SIGL

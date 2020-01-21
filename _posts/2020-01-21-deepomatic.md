@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: post
 title:  Deepomatic
 date:   2020-01-21 10:00
-tags: parcours_ancien images
+tags:   parcours_ancien images
 description: Presentation de Deepomatic
-toc: true
 ---
 # Global process
 Before applying smart algorithms, the source code must be **transformed** into a **model**
