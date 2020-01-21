@@ -27,3 +27,19 @@ Before applying smart algorithms, the source code must be **transformed** into a
 * No revision history
 
 ![refactor](refactor.jpg)
+
+# Deepomatic
+Ne fait pas de reconnaissance faciale par choix
+
+## Our platform: AI management
+AI setup->Ai deployement->Ai exploitation
+
+## Smart video survellance system: Indigo
+* Real-time altering dashboard, used by remote
+* Monitoring centers
+* Alerts in case of violent behaviour
+* People on the ground, robbery and obstruction of camera
+
+## Animal behaviour analysis: Sanofi
+* Automatic analisys of animal behaviour
+* Filmed in their cage, to ensure compliance with animal welfare standards
