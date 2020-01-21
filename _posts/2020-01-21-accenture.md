@@ -2,6 +2,7 @@
 layout: page
 title:  Accenture
 date:   2020-01-21 13:00
+tags: parcours_ancien
 description: Conference sur Accenture de la part de deux anciens d'Epita
 toc: true
 ---

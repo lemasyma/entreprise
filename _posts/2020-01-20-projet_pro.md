@@ -2,6 +2,7 @@
 layout: page
 title:  Projet professionel
 date:   2020-01-20 11:00
+tags: Shannon obligatoire projet_perso images
 description: Ouverture de la semaine et consignes pour le PP
 toc: true
 ---

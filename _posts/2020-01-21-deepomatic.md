@@ -2,6 +2,7 @@
 layout: page
 title:  Deepomatic
 date:   2020-01-21 10:00
+tags: parcours_ancien images
 description: Presentation de Deepomatic
 toc: true
 ---
