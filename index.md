@@ -28,3 +28,6 @@ Vous avez recu le powerpoint de la presentation par mail.
 
 ### [11h-12h] Qarnot
 [Notes de la conference](./qarnot/qarnot.html).
+
+### [14h-15h] Accenture
+[Notes de la conference](./accenture/accenture.html).
