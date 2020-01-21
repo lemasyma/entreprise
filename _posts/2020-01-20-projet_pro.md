@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: page
 title:  Projet professionel
 date:   2020-01-20 11:00
 description: Ouverture de la semaine et consignes pour le PP
 toc: true
 ---
-
 # Objectifs
 1. Clarifier notre projet professionnel
 1. Clarifiez notre CV et lettre de motivation

@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: page
 title:  Deepomatic
 date:   2020-01-21 10:00
 description: Presentation de Deepomatic
 toc: true
 ---
-
 # Global process
 Before applying smart algorithms, the source code must be **transformed** into a **model**
 

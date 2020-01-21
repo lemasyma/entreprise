@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Communication verbale et non verbale
 date:   2020-01-20 12:00
 description: Conference sur les differentes methodes de communication
