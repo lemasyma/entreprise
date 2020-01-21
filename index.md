@@ -31,3 +31,9 @@ Vous avez recu le powerpoint de la presentation par mail.
 
 ### [14h-15h] Accenture
 [Notes de la conference](./accenture/accenture.html).
+
+### [15h-16h] Marine
+[Notes de la conference](./marine/marine.html).
+
+### [16h-17h] Presentation du S6
+[Notes de la conference](./s6/s6.html).
