@@ -22,4 +22,7 @@ comme ca ca sera beaucoup plus simple pour retrouver une conference.
 ## About
 Je... eh... Je dois vraiment expliquer?
 
+## Copyright
+Le theme que j'utilise s'appelle [Jekyll Clean Dark](https://github.com/streetturtle/jekyll-clean-dark).
+
 PS: J'ecrit en qwerty, d'ou le manque d'accent et autres caracteres speciaux

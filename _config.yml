@@ -10,9 +10,6 @@ url: https://lemasyma.github.io/entreprise/
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: 'entreprise/'
 
-author: Pavel Makhov
-copyright: 2015-2018
-
 share:
   facebook: true
   twitter: true
