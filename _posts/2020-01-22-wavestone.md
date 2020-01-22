@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Presentation de Wavestone
-date:   2020-01-20 10:00
+title:  Wavestone
+date:   2020-01-22 11:00
 tags:   parcours_ancien images
 description: Presentation de Wavestone par un ancien de l'Epita et retours d'experience
 ---
@@ -98,3 +98,39 @@ Un grand groupe bancaire a besoin d'une expertise pour elaborer sa strategie clo
     * Analyse des socles techniques
 * Audit de la securite physique
     * Securite physique et environnementale des locaux et centre informatique
+
+# CERT
+## Wannacry / !Petya : meme combat?
+Des **RansomWorm**: des ransomwares / wipers qui se propagent comme un *ver*, **sans action utilisateur**.
+
+* Des attaques mondiales et **fulgurantes**
+* NotPetya: derive de WannaCry mais wipe le disk et c'est tout
+
+## Le BatSignal du CERT-W
+Interventions sur:
+    * Mac Beth
+    * Berne
+    * Lola
+### La situation a notre arrivee
+* Les postes de travail sont **tous hors service**
+* Les serveurs Windows de l'infrastructure **sont hors service**
+* La majorite des serveurs applicatifs Windows **sont hors service**...
+... seuls les AIX, Windows 2004 fonctionnent
+
+### La situation pendant les premieres heures
+* Des metiers qui jouent aux cartes
+* Une difficulte a reconstruie un SI **from scratch** et **sans internet**
+* Des investigations limitee par **l'absence de logs**
+* Une **pression des metiers** difficile a gerer par les equipes techniques
+* Le besoin de **prouver l'incapacite a**
+    * Repondre a des appels d'offres
+    * Etablir la cloture comptable semestrielle
+    * Travailler...
+
+### La situation dans les **prochains jours**.. et **mois**
+1. Qui va porter la responsabilite ?
+1. Des changements majeurs dans la strategie SI et SSI ?
+1. Comment retablir la confiance ?
+
+*Que ferons-nous lorsque les hopitaux seront touches ?*
+Les centrales nucleaire ? Les transports en commun ?
