@@ -75,4 +75,26 @@ Un grand groupe bancaire a besoin d'une expertise pour elaborer sa strategie clo
 * Diversite des besoin, donc des profils
 
 # Audit
+## L'Audit de securite: a quoi ca sert?
+![A quoi ca sert?](/entreprise/assets/images/casert.jpg)
 
+## Ne pas se limiter a une approche purement technique
+![Ne pas se limiter](/entreprise/assets/images/limite.jpg)
+
+## Les thematiques abordees lors de l'analyse
+* Audit organisationnel
+    * Conformite aux normes
+    * Politiques de securite
+    * Role et responsabilite
+    * Architecture / administration
+    * Exploitation
+* Test d'intrusion
+    * Boite noire : sans compte
+    * Boite grise : avec des comptes
+    * Depuis internet ou un reseau interne
+* Revue de code
+    * Analyse du code source des applicatifs
+* Revue de configuration
+    * Analyse des socles techniques
+* Audit de la securite physique
+    * Securite physique et environnementale des locaux et centre informatique
