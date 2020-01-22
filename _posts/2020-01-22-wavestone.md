@@ -67,3 +67,12 @@ Un grand groupe bancaire a besoin d'une expertise pour elaborer sa strategie clo
 
 ### Activite reelle
 * Cadrage, specification de dev, implementation de scripts
+
+## Ce que vous avez pu comprendre
+* Constant effort de montee en competence
+* Sujet precis
+* Reel apport technique
+* Diversite des besoin, donc des profils
+
+# Audit
+
