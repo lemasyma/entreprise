@@ -93,8 +93,9 @@ description: Successes, failures and impact
 * Team growth => became Engineering Manager
 
 # Recommendations
-|Problem | Solution|
-|------- | --------|
+
+|Problem      | Solution     |
+|------------ | -------------|
 |Issue #1 - No deep specifications | don't overlook the details|
 |Issue #2 - Estimation period | Take the time|
 |Issue #3 - Technical context switch | Make sure to understand the context|
