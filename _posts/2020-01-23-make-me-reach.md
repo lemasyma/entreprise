@@ -100,3 +100,4 @@ description: Successes, failures and impact
 |Issue #2 - Estimation period | Take the time|
 |Issue #3 - Technical context switch | Make sure to understand the context|
 |Issue #4 - Late Warning | Communicate and monitor|
+{:.inner-borders}
