@@ -3,7 +3,7 @@ layout: post
 title:  Make Me Reach
 date:   2020-01-23 11:00
 tags: parcours_ancien images
-description: Global overhaul: Successes, failures and impact
+description: Successes, failures and impact
 ---
 # Who Am I ?
 * Axel Manuel
